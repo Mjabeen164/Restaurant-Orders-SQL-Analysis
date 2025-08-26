@@ -1,3 +1,5 @@
+![Restaurant Orders](project_banner_2.png)
+
 # 🍽️ Restaurant Orders Analysis  
 
 This project analyzes a quarter's worth of fictitious restaurant orders from an international cuisine restaurant. The dataset includes order dates, times, items purchased, categories, cuisine types, and prices. Using **SQL**, I explored ordering trends, customer spending behavior, and menu performance.  
